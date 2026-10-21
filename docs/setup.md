@@ -34,7 +34,7 @@ You can delete the ISO from Windows after Ubuntu is installed, if you want the d
 2. Choose **File > New Virtual Machine**.
 3. Choose **Typical**, then Next.
 4. Choose **Installer disc image file (iso)** and browse to the Ubuntu ISO.
-5. If Workstation offers Easy Install, enter your full name (`John Sullivan`), a Linux username you will type often (for example `john`), and a password. That password is what Ubuntu asks for when a command uses `sudo`. It will not appear as you type it.
+5. If Workstation offers Easy Install, enter your full name (`John M Sullivan`), a Linux username you will type often (for example `john`), and a password. That password is what Ubuntu asks for when a command uses `sudo`. It will not appear as you type it.
 6. Name the virtual machine something you will recognize, such as `Ubuntu Puzzle`. The default folder on the Windows disk is fine.
 7. Give the disk **40 GB** or more. One file for the virtual disk is fine. The disk grows as Ubuntu uses space, up to that limit.
 8. On the summary page, choose **Customize Hardware** before you finish:
@@ -133,7 +133,7 @@ You will often type `python3` rather than `python` until a virtual environment i
 Git labels every commit with a name and an email. Use the name you want on the project, and the email on your GitHub account. GitHub can show a private `noreply` address under **Settings > Emails** if you would rather keep your real address off the commits. The help page is <https://docs.github.com/en/account-and-profile/how-tos/email-preferences/setting-your-commit-email-address>.
 
 ```bash
-git config --global user.name "John Sullivan"
+git config --global user.name "John M Sullivan"
 git config --global user.email "you@example.com"
 git config --global --list
 ```
