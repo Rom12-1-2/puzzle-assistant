@@ -1,0 +1,7 @@
+# Starter libraries for learning and the first photo experiments.
+# Versions are left unpinned while the project is still a plan.
+# The phone web page (Flask or FastAPI) is added when that phase starts.
+opencv-python
+numpy
+pillow
+jupyter
